@@ -1,26 +1,65 @@
 [
     {
-        "name": "健康中華 青蓮 大崎東口店",
-        "url": "https://www.google.co.jp/maps/place/%E5%81%A5%E5%BA%B7%E4%B8%AD%E8%8F%AF+%E9%9D%92%E8%93%AE+%E5%A4%A7%E5%B4%8E%E6%9D%B1%E5%8F%A3%E5%BA%97/@35.6229162,139.7249052,16.75z/data=!4m10!1m2!2m1!1z6Z2S6JOu44CA5LqU5Y-N55Sw!3m6!1s0x60188af729b7a60d:0xd6862c6b67feaf70!8m2!3d35.622297!4d139.727333!15sChLpnZLok67jgIDkupTlj43nlLAiA4gBAVoTIhHpnZIg6JOuIOS6lOWPjeeUsJIBEmNoaW5lc2VfcmVzdGF1cmFudOABAA!16s%2Fg%2F1vp73s2z?entry=ttu&g_ep=EgoyMDI0MTExMi4wIKXMDSoASAFQAw%3D%3D",
-        "lat": 35.6229162,
-        "lon": 139.7249052,
-        "comments": "個室もあり。味はそこそこ。給仕は早い。毎年使用してるので店長も要領を把握してるので楽",
+        "name": "田なか屋本店",
+        "url": "https://www.google.co.jp/maps/place/%E7%94%B0%E3%81%AA%E3%81%8B%E5%B1%8B%E6%9C%AC%E5%BA%97+%E4%BA%94%E5%8F%8D%E7%94%B0%E5%BA%97/@35.6265155,139.7229821,17z/data=!4m14!1m7!3m6!1s0x60188afba5b18521:0xc010ebea5f5b4716!2z55Sw44Gq44GL5bGL5pys5bqXIOS6lOWPjeeUsOW6lw!8m2!3d35.6265155!4d139.7248028!16s%2Fg%2F1tfs11dm!3m5!1s0x60188afba5b18521:0xc010ebea5f5b4716!8m2!3d35.6265155!4d139.7248028!16s%2Fg%2F1tfs11dm?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+        "lat": 35.6265155,
+        "lon": 139.7249821,
+        "zoom": 17,
+        "comments": "18名で利用。部屋はテーブル4つの場所を貸し切り。16名の席のため少し詰めて座る場所もあった。飲み放題付きのコース料理に日本酒や焼酎、果実酒のセルフ飲み放題を付けて4500円/人。コースは鯛しゃぶのコースで、おいしかった。コース料理や飲み物が運ばれてくるスピードはちょうどよかった。\n大山さん歓迎会\n17名で利用。部屋は掘りごたつ席を貸し切り。スペースはちょうどよかった。飲み放題付きのコース料理＋飲み放題で4000円/人。コースはもつ鍋のコースで、おいしかった。鍋だったので食べるものに困るということはなかった。飲み物が運ばれてくるスピードは普通だった。",
         "rating": 0
     },
     {
-        "name": "龍馬街道 品川",
-        "url": "https://www.google.co.jp/maps/place/%E9%BE%8D%E9%A6%AC%E8%A1%97%E9%81%93+%E5%93%81%E5%B7%9D/@35.6277427,139.7381558,17z/data=!3m1!5s0x60188a5ae14f9aab:0xa3f7d7c320609e8!4m14!1m7!3m6!1s0x60188a5ae6ce7aa7:0x7d253b48230429fd!2z6b6N6aas6KGX6YGTIOWTgeW3nQ!8m2!3d35.6277427!4d139.7407307!16s%2Fg%2F1tlc81gw!3m5!1s0x60188a5ae6ce7aa7:0x7d253b48230429fd!8m2!3d35.6277427!4d139.7407307!16s%2Fg%2F1tlc81gw?entry=ttu&g_ep=EgoyMDI0MTExMi4wIKXMDSoASAFQAw%3D%3D",
+        "name": "龍馬街道",
+        "url": "https://www.google.co.jp/maps/place/%E9%BE%8D%E9%A6%AC%E8%A1%97%E9%81%93+%E5%93%81%E5%B7%9D/@35.6277427,139.7381558,17z/data=!3m1!5s0x60188a5ae14f9aab:0xa3f7d7c320609e8!4m14!1m7!3m6!1s0x60188a5ae6ce7aa7:0x7d253b48230429fd!2z6b6N6aas6KGX6YGTIOWTgeW3nQ!8m2!3d35.6277427!4d139.7407307!16s%2Fg%2F1tlc81gw!3m5!1s0x60188a5ae6ce7aa7:0x7d253b48230429fd!8m2!3d35.6277427!4d139.7407307!16s%2Fg%2F1tlc81gw?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
         "lat": 35.6277427,
-        "lon": 139.7381558,
+        "lon": 139.7401558,
+        "zoom": 17,
         "comments": "新入社員現場研修慰労会宇喜多さん送別会飯村さん歓迎会\n33名で利用。部屋は個室で長テーブル2つ（掘りごたつ）。スペースには余裕あり。当日に欠員が2名出たが、キャンセル料は取られなかった。飲み物の来るスピードは速かったが、コース料理が運ばれてくるスピードも速く、締めのうどんが、開始1時間で来てしまった。(飲み会は2時間)。ごはん自体はおいしかった。トイレがお店の外にあるので注意。",
         "rating": 0
     },
     {
-        "name": "田なか屋本店　五反田",
-        "url": "https://www.google.co.jp/maps/place/%E7%94%B0%E3%81%AA%E3%81%8B%E5%B1%8B%E6%9C%AC%E5%BA%97+%E4%BA%94%E5%8F%8D%E7%94%B0%E5%BA%97/@35.6265155,139.7222279,17z/data=!4m14!1m7!3m6!1s0x60188afba5b18521:0xc010ebea5f5b4716!2z55Sw44Gq44GL5bGL5pys5bqXIOS6lOWPjeeUsOW6lw!8m2!3d35.6265155!4d139.7248028!16s%2Fg%2F1tfs11dm!3m5!1s0x60188afba5b18521:0xc010ebea5f5b4716!8m2!3d35.6265155!4d139.7248028!16s%2Fg%2F1tfs11dm?entry=ttu&g_ep=EgoyMDI0MTExMi4wIKXMDSoASAFQAw%3D%3D",
-        "lat": 35.6265155,
-        "lon": 139.7222279,
-        "comments": "18名で利用。部屋はテーブル4つの場所を貸し切り。16名の席のため少し詰めて座る場所もあった。飲み放題付きのコース料理に日本酒や焼酎、果実酒のセルフ飲み放題を付けて4500円/人。コースは鯛しゃぶのコースで、おいしかった。コース料理や飲み物が運ばれてくるスピードはちょうどよかった。\n大山さん歓迎会\n17名で利用。部屋は掘りごたつ席を貸し切り。スペースはちょうどよかった。飲み放題付きのコース料理＋飲み放題で4000円/人。コースはもつ鍋のコースで、おいしかった。鍋だったので食べるものに困るということはなかった。飲み物が運ばれてくるスピードは普通だった。",
+        "name": "青蓮 大崎東口店",
+        "url": "https://www.google.co.jp/maps/place/%E5%81%A5%E5%BA%B7%E4%B8%AD%E8%8F%AF+%E9%9D%92%E8%93%AE+%E5%A4%A7%E5%B4%8E%E6%9D%B1%E5%8F%A3%E5%BA%97/@35.622297,139.7247581,17z/data=!4m14!1m7!3m6!1s0x60188af729b7a60d:0xd6862c6b67feaf70!2z5YGl5bq35Lit6I-vIOmdkuiTriDlpKfltI7mnbHlj6Plupc!8m2!3d35.622297!4d139.727333!16s%2Fg%2F1vp73s2z!3m5!1s0x60188af729b7a60d:0xd6862c6b67feaf70!8m2!3d35.622297!4d139.727333!16s%2Fg%2F1vp73s2z?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+        "lat": 35.622297,
+        "lon": 139.7267581,
+        "zoom": 17,
+        "comments": "個室もあり。味はそこそこ。給仕は早い。毎年使用してるので店長も要領を把握してるので楽",
+        "rating": 0
+    },
+    {
+        "name": "五反田_ 鳥心",
+        "url": "https://www.google.co.jp/maps/place/%E4%BA%94%E5%8F%8D%E7%94%B0+%E9%B3%A5%E5%BF%83/@35.6269595,139.7190324,17z/data=!3m1!5s0x60188afb50e3647d:0x56f10b36c889fda9!4m10!1m2!2m1!1z5LqU5Y-N55SwIOmzpeW_gw!3m6!1s0x60188afb50e76189:0x2a63d125a3f04764!8m2!3d35.6266017!4d139.7223344!15sChDkupTlj43nlLAg6bOl5b-DWhMiEeS6lOWPjeeUsCDps6Ug5b-DkgETeWFraXRvcmlfcmVzdGF1cmFudOABAA!16s%2Fg%2F11f3n2rc3l?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+        "lat": 35.6269595,
+        "lon": 139.7210324,
+        "zoom": 17,
+        "comments": "技術者懇談会の後に8人で使用。ボリューム多く、満足。",
+        "rating": 0
+    },
+    {
+        "name": "とりさく 五反田店",
+        "url": "https://www.google.co.jp/maps/place/%E3%81%A8%E3%82%8A%E3%81%95%E3%81%8F+%E4%BA%94%E5%8F%8D%E7%94%B0%E5%BA%97/@35.6239066,139.7195384,17z/data=!3m1!5s0x60188afaceb5b29f:0xbbb4b6b659d0e44e!4m14!1m7!3m6!1s0x60188afacec6913b:0x7ac57a9d4401a8a!2z44Go44KK44GV44GPIOS6lOWPjeeUsOW6lw!8m2!3d35.6239066!4d139.7221133!16s%2Fg%2F1tlw91hk!3m5!1s0x60188afacec6913b:0x7ac57a9d4401a8a!8m2!3d35.6239066!4d139.7221133!16s%2Fg%2F1tlw91hk?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+        "lat": 35.6239066,
+        "lon": 139.72153840000001,
+        "zoom": 17,
+        "comments": "地下の個室。ドア側の人は少し寒かったかも。\n・料理は1時間前くらいまでに出してもらうようにお願いした。余興が結構長いのでつまみが欲しいと坂本さんが言ってた。\n・食べ物も好評だった。（家族へのお土産になるわ～等の感想を頂いた。）",
+        "rating": 0
+    },
+    {
+        "name": "跳魚 品川店",
+        "url": "https://www.google.co.jp/maps/place/%E8%B7%B3%E9%AD%9A+%E5%93%81%E5%B7%9D%E5%BA%97/@35.6286799,139.7381841,17z/data=!3m1!5s0x60188bc115820c67:0x92da694a318645c4!4m6!3m5!1s0x60188a4526f40013:0xb4d60d54bfff6a1!8m2!3d35.62868!4d139.743055!16s%2Fg%2F1xb2dkgd?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+        "lat": 35.6286799,
+        "lon": 139.74018410000002,
+        "zoom": 17,
+        "comments": "品川駅港南口からまっすぐ歩いて5分ぐらい。8名で利用。\n5,000円の飲み放題コースにした。料理は魚メインで順次運ばれてきた、ペースも程よかった。テーブルにあるQRコードから飲み物の注文が可能で飲み物が出てくるスピードも速かった。LOが1.5時間でコース終了が2時間とあったが後に予約がなかったからかコロナ禍のため閉店が早いためか不明だが3時間ぐらい居座ることができた。\n",
+        "rating": 0
+    },
+    {
+        "name": "五反田 ふじ屋",
+        "url": "https://www.google.co.jp/maps/place/%E3%82%82%E3%81%A4%E7%84%BC%E3%81%8D+%E4%BA%94%E5%8F%8D%E7%94%B0%E3%81%B5%E3%81%98%E5%B1%8B/@35.6244313,139.7198963,17z/data=!3m1!5s0x60188ae53bcf9797:0x7674ce686801d049!4m14!1m7!3m6!1s0x60188b14c96606f5:0x422bc3934817de25!2z44KC44Gk54S844GNIOS6lOWPjeeUsOOBteOBmOWxiw!8m2!3d35.6244313!4d139.7224712!16s%2Fg%2F11fk46fzqh!3m5!1s0x60188b14c96606f5:0x422bc3934817de25!8m2!3d35.6244313!4d139.7224712!16s%2Fg%2F11fk46fzqh?entry=ttu&g_ep=EgoyMDI0MTExMy4xIKXMDSoASAFQAw%3D%3D",
+        "lat": 35.6244313,
+        "lon": 139.7218963,
+        "zoom": 17,
+        "comments": "高島君歓迎会（設計・技術室）\n店内も明るく給仕のペースもほどよかった。5,000円の飲み放題つきのコースを予約していたが、当日通常メニューから食べたいものを頼むこともできた（もちろん追加で費用発生する。）食べ物の量がすこし多いので、小食の人が多い時は避けるか、単品で頼める席のみ予約の方がいいかもしれない。ホールスタッフのネイルがきれい。",
         "rating": 0
     }
 ]
